@@ -1,5 +1,5 @@
-[![Hyeonuk Kim's GitHub Stats](https://github-readme-stats.vercel.app/api?username=wise1ight&hide=prs&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wise1ight&show_icons=true&hide_border=true&layout=compact)](https://github.com/wise1ight)
+| [![Hyeonuk Kim's GitHub Stats](https://github-readme-stats.vercel.app/api?username=wise1ight&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) | [![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wise1ight&layout=compact&theme=buefy&hide_border=true)](https://github.com/wise1ight) |
+| ------------- | ------------- |
 
 - 👋 Hi, I’m @wise1ight
 - 👀 I’m interested in ...
