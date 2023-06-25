@@ -10,6 +10,8 @@
 
 - 🔭 I’m currently working on [메타버스 기반 NFT 커뮤니티 흑우촌](https://heuguchon.com/)
 
+- 👀 I’m interested in Metaverse, Web3, Cryptocurrency Trading, Public Transport
+
 - 🌱 I’m currently learning **Spring, React**
 
 - 📝 I regularly write articles on [https://wise1ight.github.io/](https://wise1ight.github.io/)
